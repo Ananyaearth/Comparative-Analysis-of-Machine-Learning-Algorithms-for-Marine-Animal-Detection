@@ -28,12 +28,15 @@ The dataset used in this project includes:
 - **Validation images**: 250
 - **Test images**: 100
 - **Categories**: Dolphin, Fish, Lobster, Octopus, Sea Horse
-
+Kaggle Dataset link
 The dataset was preprocessed using:
 - **Normalization**: To standardize pixel intensity values.
 - **Resizing**: Ensuring consistent input dimensions for all models.
 - **Augmentation**: Techniques such as rotation, flipping, and brightness adjustments to increase dataset diversity.
 
+The dataset used in this project is available on Kaggle:
+
+- **Marine Image Dataset for Classification**: [Link to Dataset](https://www.kaggle.com/datasets/ananya12verma/marine-image-dataset-for-classification)
 ---
 
 ## Methods
