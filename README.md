@@ -1,0 +1,2 @@
+# Comparative-Analysis-of-Machine-Learning-Algorithms-for-Marine-Animal-Detection
+A machine learning project that classifies marine animals (Dolphin, Fish, Lobster, Octopus, Sea Horse) using traditional and deep learning models. Achieved 92% accuracy with CNNs by addressing underwater challenges like distortions and lighting variations. Features rigorous preprocessing, augmentation, and comparative analysis of models.
