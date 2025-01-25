@@ -21,6 +21,14 @@ Through rigorous preprocessing and data augmentation techniques, this project ai
 
 ---
 
+## Authors 
+- Ananya Verma
+- Manav Khambhayata
+- Kanha Tayal
+- Smarak Patnaik
+- Annirudha Singh
+---
+
 ## Dataset
 
 The dataset used in this project includes:
@@ -56,13 +64,6 @@ The dataset used in this project is available on Kaggle:
 - **Principal Component Analysis (PCA)**: For dimensionality reduction in traditional models.
 - **Data Augmentation**: Enhanced CNN robustness against distortions.
 
----
-## Authors 
-- Ananya Verma
-- Manav Khambhayata
-- Kanha Tayal
-- Smarak Patnaik
-- Annirudha Singh
 ---
 
 ## Results
