@@ -21,6 +21,14 @@ Through rigorous preprocessing and data augmentation techniques, this project ai
 
 ---
 
+## Authors 
+- Ananya Verma
+- Manav Khambhayata
+- Kanha Tayal
+- Smarak Patnaik
+- Annirudha Singh
+---
+
 ## Dataset
 
 The dataset used in this project includes:
